@@ -1,3 +1,6 @@
+#Design Copyright by Nilupul Sayuranga
+#Recreated & Coded by Nilupul Sayuranga
+
 from turtle import *
 bgcolor("black")
 pensize(5)
